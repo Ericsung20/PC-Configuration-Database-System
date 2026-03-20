@@ -1,6 +1,6 @@
 # Intelligent PC Configuration & Compatibility Database System
 
-A relational database project for a PC build platform that supports component management, build estimation, and hardware compatibility analysis.
+A database project for a PC build platform that supports component management, build estimation, and hardware compatibility analysis.
 
 ## Overview
 This project was developed as part of a database course project.  
